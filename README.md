@@ -2,7 +2,7 @@
 
 Author: Rachael Gilbert &lt;rachaelgilbert@gmail.com&gt;  
 License: Public domain  
-Source: https://github.com/rgilbert11/NEISS
+Source: https://github.com/rcg798/NEISS
 
 ### Purpose
 This is a short script to play around with pandas and numpy using the National Electronic Injury Surveillance System data from 2014. You can find the full set of data here: http://www.cpsc.gov/en/Research--Statistics/NEISS-Injury-Data/
